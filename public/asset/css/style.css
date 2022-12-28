@@ -1,0 +1,21 @@
+body{
+    background-image: url("../image/foodBg.jpg");
+    padding: 0;
+    margin: 0;
+    height: 100vh;
+}
+
+.carousel-inner p{
+    font-weight: bolder;
+    font-size: 17px;
+    color: black;
+}
+
+.container .card img{
+    width: 414px;
+    height: 414px;
+}
+
+#price{
+    outline-color: none;
+}
